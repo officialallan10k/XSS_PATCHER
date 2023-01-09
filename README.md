@@ -5,5 +5,5 @@ An XSS PATCHER that can protect your code being injected by XSS, HTML Injection,
 Insert this following code in your php code.
 
 include_once("patcher.php");
-or
+<strong>or</strong><br><br>
 require_once("patcher.php");
